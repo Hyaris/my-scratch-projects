@@ -1,13 +1,31 @@
 ## 📜 Development Timeline
 
-### v1.0 (Final Release) - Feb 2026
-* Polished UI and added "Game Over" screen.
-* Fixed bug where player could jump infinitely.
+January 2026 Timeline
+### Created New Scratch Project - 11 Jan 2026
+*Designed Homepage
+*Integrated the Homepage's wireframe
 
-### v0.5 (The Beta) - Jan 2026
-* Integrated sound effects and background music.
-* Added Level 2 and Level 3 logic.
+### Integrated working buttons into the Homepage - 15 Jan 2026
+*Added a fully functional play button with Scratch's block coding
+*Added a Credit button placeholder
 
-### v0.1 (The Prototype) - Dec 2025
-* Created basic player movement scripts.
-* Designed the first environment assets.
+### Integrated Gamepage - 16 Jan 2026
+*Linked the play button to the Gamepage
+*Added the first sprite with walk animations
+*Created the first star sprite (Stars are the links to the MCQ, touching the star would take you a MCQ question)
+
+### Updated the Gamepage(1) - 23 Jan 2026
+*Added a link to the first mcq wireframe to the star sprite
+
+### Updated the Gamepage(2) - 24 Jan 2026
+*Coded the first two MCQ questions (BUGGED)
+
+### Updated the Gamepage(3) + Bug Fixes - 25 Jan 2026
+*Added the remaining 4 MCQ questions (and fixed the bug)
+*Designed the "Try Again" screen/ (lose screen)
+*Added the code to link wrong answers to the lose screen
+
+### Finishing touches (added the last remaining screens) - 30 Jan 2026
+*Designed the "Win" screen
+* Designed the Credits screen
+*Integrated the above screens into the game through coding
