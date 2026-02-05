@@ -1,6 +1,13 @@
-Added a new "Game Over" screen
------------------------------------------
-Added a "Win" screen
------------------------------------------
-Added and fixed sum sum etc. Jonas will do the rest
-https://scratch.mit.edu/projects/1268387625/editor/
+## 📜 Development Timeline
+
+### v1.0 (Final Release) - Feb 2026
+* Polished UI and added "Game Over" screen.
+* Fixed bug where player could jump infinitely.
+
+### v0.5 (The Beta) - Jan 2026
+* Integrated sound effects and background music.
+* Added Level 2 and Level 3 logic.
+
+### v0.1 (The Prototype) - Dec 2025
+* Created basic player movement scripts.
+* Designed the first environment assets.
